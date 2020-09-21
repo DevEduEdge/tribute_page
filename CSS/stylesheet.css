@@ -34,6 +34,7 @@ h2 {
 
 a {
   color: #477ca7;
+  text-decoration: none;
 }
 
 a:visited {
@@ -43,8 +44,8 @@ a:visited {
 #main {
   margin: 30px 8px;
   padding: 15px;
-  border-radius: 5px;
-  background: #eee;
+  border-radius: 25%;
+  background-image: linear-gradient(#709fb0 ,#ff7e67);  
 }
 
 @media (max-width: 460px) {
